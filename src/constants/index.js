@@ -202,18 +202,22 @@ const socialImgs = [
   {
     name: "insta",
     imgPath: "/images/insta.png",
+    url: "https://www.instagram.com/ay_raj29",
   },
   {
     name: "github",
     imgPath: "/images/github.png",
+    url: "https://github.com/AR10129",
   },
   {
     name: "x",
     imgPath: "/images/x.png",
+    url: "https://x.com/Charizard_29",
   },
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+    url: "https://www.linkedin.com/in/ayushi-raj-94bb43271",
   },
 ];
 

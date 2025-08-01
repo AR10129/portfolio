@@ -2,8 +2,6 @@
 
 A sleek, interactive portfolio built with React and Three.js featuring stunning 3D experiences and smooth animations.
 
-![Portfolio Preview](./public/images/readme.png)
-
 ## 🚀 Features
 
 - **Interactive 3D Models** - Immersive Three.js experiences
